@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Lightningvolt';
+    src: url('Lightningvolt.woff2') format('woff2'),
+        url('Lightningvolt.woff') format('woff'),
+        url('Lightningvolt.ttf') format('truetype'),
+        url('Lightningvolt.svg#Lightningvolt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
